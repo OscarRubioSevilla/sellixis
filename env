@@ -1,0 +1,14 @@
+#DB
+DB_HOST="localhost"
+DB_PORT=3306
+DB_USER="root"
+DB_PASSWORD=""
+DB_DATABASE="sellix"
+
+#JWT
+JWT_SECRET="secret"
+JWT_EXPIRES_IN="1d"
+
+#REDIS
+REDIS_HOST="localhost"
+REDIS_PORT=6379
