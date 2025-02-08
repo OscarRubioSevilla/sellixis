@@ -1,3 +1,1 @@
-const hola: string = "hola";
-
-console.log(hola);
+export const SITE_NAME = "Sellix"; 
